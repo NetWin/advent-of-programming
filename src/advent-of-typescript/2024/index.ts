@@ -3,3 +3,4 @@ export * from './02';
 export * from './03';
 export * from './04';
 export * from './05';
+export * from './06';
